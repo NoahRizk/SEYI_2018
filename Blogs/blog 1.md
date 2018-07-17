@@ -1,4 +1,4 @@
-#From data collection to data analysis
+# From data collection to data analysis
 
 This is my second year being a part of SEYI. I have absolutely loved the work we have done in Biodiversity program this year. Everything is very different from what we did last year. I feel the work requires much more creativity because we are analyzing data instead of collecting it. 
 
@@ -11,6 +11,6 @@ We have also been provided a book to read this summer, John Tyler Bonner’s Why
 On July 3rd we went on a trip to New Brighton State Beach and the Seymour Marine Discovery Center in Santa Cruz. Some of the interesting things we saw at the beach included but were not limited to whale bones, fossil beds, sea anemones, isopods, and a large crab. At the Marine Center we were able to gaze out at the sea and see crashing waves. We also saw the skeleton of an actual blue whale that had been found dead on the beach many years back.
 
 ![Anemone](../Images/Anemone.jpeg)
-![Fossil Bed](../Images/Fossil Bed.jpeg)
-![Fossil Rock](../Images/Fossil Rock.jpeg)
+![Fossil Bed](../Images/Fossilbed.jpeg)
+![Fossil Rock](../Images/Fossilrock.jpeg)
 ![Crab](../Images/crab.jpeg)
